@@ -1,0 +1,11 @@
+u:\documents\visual studio 2010\Projects\VideoPlayerAndEditor\VideoPlayerAndEditor\obj\x86\Debug\MainWindow.baml
+u:\documents\visual studio 2010\Projects\VideoPlayerAndEditor\VideoPlayerAndEditor\obj\x86\Debug\MainWindow.g.cs
+u:\documents\visual studio 2010\Projects\VideoPlayerAndEditor\VideoPlayerAndEditor\obj\x86\Debug\App.g.cs
+u:\documents\visual studio 2010\Projects\VideoPlayerAndEditor\VideoPlayerAndEditor\obj\x86\Debug\VideoPlayerAndEditor_MarkupCompile.cache
+u:\documents\visual studio 2010\Projects\VideoPlayerAndEditor\VideoPlayerAndEditor\obj\x86\Debug\VideoPlayerAndEditor.g.resources
+u:\documents\visual studio 2010\Projects\VideoPlayerAndEditor\VideoPlayerAndEditor\obj\x86\Debug\VideoPlayerAndEditor.Properties.Resources.resources
+u:\documents\visual studio 2010\Projects\VideoPlayerAndEditor\VideoPlayerAndEditor\obj\x86\Debug\VideoPlayerAndEditor.csproj.GenerateResource.Cache
+u:\documents\visual studio 2010\Projects\VideoPlayerAndEditor\VideoPlayerAndEditor\bin\Debug\VideoPlayerAndEditor.exe
+u:\documents\visual studio 2010\Projects\VideoPlayerAndEditor\VideoPlayerAndEditor\bin\Debug\VideoPlayerAndEditor.pdb
+u:\documents\visual studio 2010\Projects\VideoPlayerAndEditor\VideoPlayerAndEditor\obj\x86\Debug\VideoPlayerAndEditor.exe
+u:\documents\visual studio 2010\Projects\VideoPlayerAndEditor\VideoPlayerAndEditor\obj\x86\Debug\VideoPlayerAndEditor.pdb
